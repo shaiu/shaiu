@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shai Ungar</h1>
 <h3 align="center">Love to to code. But first coffee.</h3>
 
-<a href="https://twitter.com/intent/follow?screen_name=le1vyshay" target="blank">
+<a href="https://twitter.com/intent/follow?screen_name=shaiu22" target="blank">
   <img align="center" src="https://img.shields.io/badge/-@shaiu22-1DA1F2?style=flat-square&logo=twitter&labelColor=white" alt="twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/shai-ungar-5839b414" target="blank">
